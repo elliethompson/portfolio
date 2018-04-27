@@ -604,13 +604,12 @@ body {
 
 .top-right3 p+p+p {
     font-size: 0.4em;
-    top:70px;}
+    top:80px;}
 
 .top-right3 ul {
      font-size: 0.4em;
-    top: 90px;
-    right: 50px;
-    text-align: justify;}
+    top: 95px;
+    right: 40px;}
 
 .top-right3 li {
     line-height: 10px;}
@@ -625,7 +624,7 @@ body {
 
 .btn6 {
     top: 140px;
-    left: 105px;
+    left: 115px;
     font-size: 0.3em;
     padding: 3px 3px 3px 3px;
     border: 1px solid white;
