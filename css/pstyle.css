@@ -464,10 +464,10 @@ body {
 
 /*------SMARTPHONE-------*/
 
-@media (max-width:35em) {
+@media (max-width:480px) {
     
     .bannertop {
-    padding: 1.5em 0em 0em 0em;}
+    padding: 1.6em 0em 0em 0em;}
 
     .navigation-bar ul  {
     font-size: 0.8em;}
@@ -486,7 +486,7 @@ body {
         font-size: 1.5em;}
         
     .big {
-        font-size: 4em;}
+        font-size: 3em;}
     
 .bigthree {
     font-size: 1em;}
