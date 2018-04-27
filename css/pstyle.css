@@ -533,7 +533,7 @@ body {
     line-height: 10px;}
     
     .btn1 {
-    top: 145px;
+    top: 140px;
     left: 30px;
     font-size: 0.3em;
     padding: 3px 3px 3px 3px;
@@ -541,7 +541,7 @@ body {
     border-radius: 2px;}
 
 .btn2 {
-    top: 145px;
+    top: 140px;
     left: 85px;
     font-size: 0.3em;
     padding: 3px 3px 3px 3px;
@@ -551,7 +551,7 @@ body {
     .top-right2 {
     font-size: 1.4em;
     top: 25px;
-    right: 240px;
+    right: 220px;
 }
 
 .top-right2 p+p {
@@ -575,7 +575,7 @@ body {
 
 .btn3 {
     font-size: 0.3em;
-    top: 140px;
+    top: 135px;
     left: 20px;
     padding: 3px  3px 3px 3px;
     border: 1px solid white;
@@ -584,7 +584,7 @@ body {
 
 .btn4 {
     font-size: 0.3em;
-    top: 140px;
+    top: 135px;
     left: 75px;
     padding: 3px  3px 3px 3px;
     border: 1px solid white;
@@ -609,7 +609,7 @@ body {
 .top-right3 ul {
      font-size: 0.4em;
     top: 95px;
-    right: 40px;}
+    right: 45px;}
 
 .top-right3 li {
     line-height: 10px;}
