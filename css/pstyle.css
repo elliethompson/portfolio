@@ -483,7 +483,7 @@ body {
     height: 15px;}
     
     .small {
-         padding: 0em 0em 0em 0.5em;
+         padding: 0.2em 0em 0em 0.5em;
         font-size: 1.5em;}
         
     .big {
@@ -505,7 +505,7 @@ body {
 .inner {
     width: 100%px;
     height: 175px;
-    padding: 2em 2em 2em 2em;}
+    padding: 2em 2em 0em 3em;}
     
     .top-right {
     font-size: 1.5em;
@@ -513,20 +513,20 @@ body {
     right: 40px;}
 
 .top-right p+p {
-    font-size: 0.3em;
+    font-size: 0.4em;
     line-height: 10px;
-    top: 35px;}
+    top: 30px;}
 
 .top-right p+p+p {
-    font-size: 0.3em;
-    top:75px;}
+    font-size: 0.4em;
+    top:70px;}
 
 .top-right ul {
-     font-size: 0.3em;
+     font-size: 0.4em;
     letter-spacing: 0.04em;
     position: absolute;
-    top: 90px;
-    right: 90px;
+    top: 85px;
+    right: 70px;
     text-align: justify;}
 
 .top-right li {
@@ -534,83 +534,82 @@ body {
     
     .btn1 {
     top: 145px;
-    left: 25px;
+    left: 30px;
     font-size: 0.3em;
-    padding: 5px 5px 5px 5px;
+    padding: 3px 3px 3px 3px;
     border: 1px solid white;
     border-radius: 2px;}
 
 .btn2 {
     top: 145px;
-    left: 80px;
+    left: 85px;
     font-size: 0.3em;
-    padding: 5px 5px 5px 5px;
+    padding: 3px 3px 3px 3px;
     border: 1px solid white;
     border-radius: 2px;}
     
     .top-right2 {
-    font-size: 1.5em;
-    top: 35px;
+    font-size: 1.4em;
+    top: 25px;
     right: 240px;
 }
 
 .top-right2 p+p {
-    font-size: 0.3em;
+    font-size: 0.4em;
     line-height: 10px;
     top: 30px;
-    text-align: justify;}
+    }
 
 .top-right2 p+p+p {
-    font-size: 0.3em;
-    top: 60px;}
+    font-size: 0.4em;
+    top: 70px;}
 
 .top-right2 ul {
-     font-size: 0.3em;
-    top: 75px;
-    right: 100px;
-    text-align: justify;}
+     font-size: 0.4em;
+    top: 85px;
+    right: 75px;}
 
 .top-right2 li {
     line-height: 10px;}
     
 
 .btn3 {
-    top: 125px;
+    font-size: 0.3em;
+    top: 140px;
     left: 20px;
-    padding: 5px  5px 5px 5px;
+    padding: 3px  3px 3px 3px;
     border: 1px solid white;
     border-radius: 2px;
 }
 
 .btn4 {
-    top: 125px;
+    font-size: 0.3em;
+    top: 140px;
     left: 75px;
-    padding: 5px  5px 5px 5px;
+    padding: 3px  3px 3px 3px;
     border: 1px solid white;
     border-radius: 2px;
 }
 
-     .top-right3 {
+    .top-right3 {
     padding: 0em 1em 0em 1em;
     font-size: 1.5em;
     top: 20px;
     right: 40px;}
 
 .top-right3 p+p {
-    font-size: 0.3em;
+    font-size: 0.4em;
     line-height: 10px;
-    top: 35px;}
+    top: 30px;}
 
 .top-right3 p+p+p {
-    font-size: 0.3em;
-    top:65px;}
+    font-size: 0.4em;
+    top:70px;}
 
 .top-right3 ul {
-     font-size: 0.3em;
-    letter-spacing: 0.04em;
-    position: absolute;
-    top: 80px;
-    right: 80px;
+     font-size: 0.4em;
+    top: 90px;
+    right: 50px;
     text-align: justify;}
 
 .top-right3 li {
@@ -620,7 +619,7 @@ body {
     top: 140px;
     left: 50px;
     font-size: 0.3em;
-    padding: 5px 5px 5px 5px;
+    padding: 3px 3px 3px 3px;
     border: 1px solid white;
     border-radius: 2px;}
 
@@ -628,7 +627,7 @@ body {
     top: 140px;
     left: 105px;
     font-size: 0.3em;
-    padding: 5px 5px 5px 5px;
+    padding: 3px 3px 3px 3px;
     border: 1px solid white;
     border-radius: 2px;}
     
