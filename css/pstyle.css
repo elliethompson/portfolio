@@ -49,8 +49,9 @@ body {
     font-size: 1.5em;
     text-align: center;
     text-justify: inter-word;
-    color:#3b3e40;
-    padding: 0.5em 0em 0em 0.1em;}
+    color:#ffff;
+    padding: 0.5em 0em 0em 1em;}
+
 
 /*----NAVIGATION-----*/
 
@@ -74,7 +75,7 @@ body {
 .navigation-bar ul  {
     text-align: right;
     text-transform: uppercase;
-    font-size: 1em;
+    font-size: 1.2em;
     letter-spacing: 1.5px;}
 
 .navigation-bar ul li {
@@ -424,11 +425,12 @@ body {
 
 .banner {
     width: 100%;
+    height: 200px;
     background-color: #f2cad3;}
 
 .icons {
     text-align: center;
-    padding: 2.5em 2em 1em 0em;}
+    padding: 6.5em 2em 1em 0em;}
     
 .icons img {
     display: inline-block;
